@@ -124,7 +124,7 @@ def partition(arr, left, right):
 
 空间复杂度n
 
-建堆logn？
+建堆logn
 
 ### 总结
 
